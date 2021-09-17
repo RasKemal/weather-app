@@ -1,0 +1,23 @@
+body{
+    background: #85a0c4;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    background-image: url(https://www.designyourway.net/blog/wp-content/uploads/2018/08/a0026461_508d3d23cd366.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.container{
+    max-width: 400px;
+}
+
+.icon{
+    position:relative;
+    top: -50px;
+    border-radius:50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
